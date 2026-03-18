@@ -13,7 +13,7 @@ export function HeroSection() {
           {/* LEFT SIDE */}
           <div>
             <h1 className="text-4xl lg:text-5xl font-semibold leading-tight text-[#1F2937]">
-            Stop blending in. Get premium video ads that actuallybring you paying clients.
+            Stop blending in. Get premium video ads that actually bring you paying clients.
             </h1>
 
             <p className="mt-6 text-lg text-gray-600 max-w-xl">
