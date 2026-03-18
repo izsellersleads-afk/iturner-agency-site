@@ -17,9 +17,7 @@ export function HeroSection() {
             </h1>
 
             <p className="mt-6 text-lg text-gray-600 max-w-xl">
-              We create short-form promotional videos, Instagram & TikTok ads,
-              TV-ready commercials, and bilingual content that helps your business
-              get seen, remembered, and chosen.
+              We turn your business into a client magnet with scroll-stopping video ads, bilingual content, and TV-quality production—so you get seen, remembered, and booked.
             </p>
 
             {/* CTA */}
