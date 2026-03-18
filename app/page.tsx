@@ -18,14 +18,19 @@ export default function HomePage() {
       <Navigation />
       <main className="pt-[72px] md:pt-[80px] lg:pt-[96px]">
         <HeroSection />
-        <AboutSection />
-        <ServicesSection />
-        <MeetIleanaSection />
-        <HowItWorksSection />
-        <BilingualSection />
-        <MusicSection />
+
         <IndustriesSection />
         <TestimonialsSection />
+
+        <ServicesSection />
+        <HowItWorksSection />
+
+        <AboutSection />
+        <MeetIleanaSection />
+
+        <BilingualSection />
+        <MusicSection />
+
         <FAQSection />
         <CTASection />
       </main>
