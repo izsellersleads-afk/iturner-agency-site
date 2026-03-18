@@ -33,6 +33,9 @@ export function TestimonialsSection() {
           <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-semibold leading-tight text-[#1F2937]">
             Trusted by businesses like yours
           </h2>
+          <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
+            Businesses using our videos consistently report more engagement, better leads, and stronger brand positioning.
+          </p>
         </div>
 
         {/* Testimonials Grid */}
