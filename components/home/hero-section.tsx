@@ -13,18 +13,20 @@ export function HeroSection() {
           {/* LEFT SIDE */}
           <div>
             <h1 className="text-4xl lg:text-5xl font-semibold leading-tight text-[#1F2937]">
-            Stop blending in. Get premium video ads that bring you paying clients.
+            Stop blending in. Get premium video ads that actuallybring you paying clients.
             </h1>
 
             <p className="mt-6 text-lg text-gray-600 max-w-xl">
-              We turn your business into a client magnet with scroll-stopping video ads, bilingual content, and TV-quality production—so you get seen, remembered, and booked.
+              We help aesthetic clinics and local businesses turn attention into real clients with scroll-stopping video ads, bilingual content, and TV-quality production—without the agency headaches.
             </p>
-
+            <p className="mt-3 text-sm text-[#0F766E] font-medium">
+              Perfect for med spas, beauty professionals, and local businesses ready to grow.
+            </p>
             {/* CTA */}
             <div className="mt-10">
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild size="lg" className="bg-[#0F766E] text-white hover:bg-[#0F766E]/90 h-14 px-8 text-base">
-                  <Link href="/contact">Request Your Free Demo</Link>
+                  <Link href="/contact">Get Your Free Demo</Link>
                 </Button>
 
                 <Button asChild variant="outline" size="lg" className="h-14 px-8 text-base border-[#0F766E] text-[#0F766E] hover:bg-[#0F766E] hover:text-white">
@@ -47,7 +49,7 @@ export function HeroSection() {
           {/* RIGHT SIDE */}
           <div className="relative">
             <p className="text-xs font-medium tracking-widest uppercase text-[#6B7280] mb-4 text-center lg:text-left">
-              Example Promotional Video for Aesthetic Clinics
+              Real example for aesthetic clinics
             </p>
 
             <div className="aspect-[9/16] sm:aspect-[4/5] rounded-2xl overflow-hidden shadow-xl border border-[#E5E7EB]">
@@ -59,7 +61,7 @@ export function HeroSection() {
             </div>
 
             <div className="absolute top-2 right-2 bg-[#14B8A6] text-white px-4 py-2 rounded-full text-sm shadow-lg">
-              Free Demo Available
+              Free Demo — Delivered in 48h
             </div>
           </div>
 
