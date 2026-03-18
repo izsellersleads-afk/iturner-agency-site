@@ -51,14 +51,17 @@ export default function ContactPage() {
               <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-semibold leading-tight text-[#1F2937] text-balance">
                 {"Let's"} create something amazing together
               </h1>
-              <p className="mt-8 text-lg text-[#6B7280] leading-relaxed max-w-2xl">
-                Ready to elevate your video marketing? Request a free demo to see
-                what we can create for your business, or book a discovery call to
-                discuss your goals.
-                <p className="mt-4 text-sm text-[#0F766E] font-medium">
-                  No commitment. Just a quick look at what’s possible for your business.
-                </p>
-              </p>
+              <div className="mt-8 max-w-2xl">
+  <p className="text-lg text-[#6B7280] leading-relaxed">
+    Ready to elevate your video marketing? Request a free demo to see
+    what we can create for your business, or book a discovery call to
+    discuss your goals.
+  </p>
+
+  <p className="mt-4 text-sm text-[#0F766E] font-medium">
+    No commitment. Just a quick look at what’s possible for your business.
+  </p>
+</div>
             </div>
           </div>
         </section>
