@@ -13,7 +13,7 @@ export function HeroSection() {
           {/* LEFT SIDE */}
           <div>
             <h1 className="text-4xl lg:text-5xl font-semibold leading-tight text-[#1F2937]">
-              Premium video ads for businesses that want more attention and more clients
+            Stop blending in. Get premium video ads that bring you paying clients.
             </h1>
 
             <p className="mt-6 text-lg text-gray-600 max-w-xl">
