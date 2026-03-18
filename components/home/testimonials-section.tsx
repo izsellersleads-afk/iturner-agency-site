@@ -2,22 +2,22 @@ import { Quote } from "lucide-react"
 
 const testimonials = [
   {
-    quote: "The videos Ileana created for our med spa completely transformed our social media presence. We've seen a 40% increase in consultation bookings since launching the campaign.",
-    author: "Dr. Sarah Mitchell",
-    role: "Owner, Glow Aesthetics Med Spa",
-    location: "Miami, FL",
+    quote: "We had content before, but it wasn’t bringing in new clients. After using Ileana’s videos, we started getting actual inquiries within the first couple of weeks. That was the difference for us.",
+    author: "Sarah M.",
+    role: "Med Spa Owner",
+    location: "Florida",
   },
   {
-    quote: "Working with Ileana Turner Agency was seamless. They understood our brand immediately and delivered content that resonated with both our English and Spanish-speaking clients.",
-    author: "Maria Rodriguez",
-    role: "Marketing Director, Bella Skin Clinic",
-    location: "Houston, TX",
+    quote: "What stood out was how easy the process was. I didn’t have to figure anything out — they just understood what we needed and delivered something that finally looked professional.",
+    author: "Maria R.",
+    role: "Clinic Manager",
+    location: "Texas",
   },
   {
-    quote: "The custom jingle they created for our TV commercial is so catchy our patients hum it in the waiting room. That's the kind of memorable branding you can't buy anywhere else.",
-    author: "Dr. James Chen",
-    role: "Founder, Rejuvenate Medical Spa",
-    location: "Los Angeles, CA",
+    quote: "The videos made our brand look more premium instantly. We started getting better quality clients — people who were ready to book, not just ask questions.",
+    author: "James C.",
+    role: "Aesthetic Practice Owner",
+    location: "California",
   },
 ]
 
